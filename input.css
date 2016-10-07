@@ -1,0 +1,16 @@
+input[type="text"].ld-input1 {
+border: none;
+border-bottom: 5px solid white;
+color: #ccc;
+font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+text-align: center;
+font-size: 18pt;
+width: 220px;
+height: 40px;
+background: none;
+box-shadow: none;
+}
+input[type="text"].ld-input1:hover {
+background: rgba(255,255,255,0.35);
+color: white;
+}
